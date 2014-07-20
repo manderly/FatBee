@@ -11,3 +11,5 @@ I made this spring '14 for the sake of trying out Corona SDK and for the experie
 ![alt tag](fatbee_screenshot1.png)
 ![alt tag](fatbee_screenshot1b.png)
 ![alt tag](fatbee_screenshot2.png)
+![alt tag](fatbee_screenshot3.png)
+![alt tag](fatbee_screenshot4.png)
